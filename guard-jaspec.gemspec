@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Kevin Gisi"]
   spec.email         = ["kevin@kevingisi.com"]
   spec.summary       = %q{Guard plugin for Jaspec}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/gisikw/guard-jaspec"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
